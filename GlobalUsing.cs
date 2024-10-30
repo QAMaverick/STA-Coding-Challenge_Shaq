@@ -1,0 +1,11 @@
+﻿global using System;
+global using System.Threading;
+global using SpecFlow;
+global using OpenQA.Selenium.Chrome;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Support.UI;
+global using OpenQA.Selenium.Support;
+global using OpenQA.Selenium.Interactions;
+global using NUnit.Compatibility;
+global using NUnit.Framework;
+global using NUnit.Framework.Legacy;
