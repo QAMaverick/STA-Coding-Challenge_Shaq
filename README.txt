@@ -36,7 +36,7 @@ How I made the scripts:
 4. NoLocationSearch.cs - blankJourneyFields()
 	Main focus in the script was checking for appropriate field validations upon clicking the plan button with some assertions. 
 
-
+SpecFlow feature files are found in thre Features folder
 
 What additional tests/scenarios I would add:
 
